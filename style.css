@@ -4,4 +4,6 @@
   background-color: aquamarine;
   text-align: center;
   text-transform: lowercase;
+  align-items: center;
+  display: flex;
 }
